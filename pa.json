@@ -1,0 +1,12 @@
+{
+  "products": {
+    "123456": {
+      "name": "Monitor",
+      "description": "Dell 24''",
+      "quantity": 5,
+      "createdAt": "2025-12-15T12:44:00Z",
+      "addedBy": "user@email.com"
+    }
+  },
+  "outgoing_products": {}
+}
